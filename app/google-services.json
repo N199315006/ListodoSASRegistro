@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995600716137",
+    "firebase_url": "https://registro-listodo-sas-default-rtdb.firebaseio.com",
+    "project_id": "registro-listodo-sas",
+    "storage_bucket": "registro-listodo-sas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995600716137:android:3cf93fe23179c448026df8",
+        "android_client_info": {
+          "package_name": "com.example.listodosasregistro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995600716137-0m8fg81of155cgeu5tihv5748ki63pt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.listodosasregistro",
+            "certificate_hash": "f40f9c032549069175003b393dd867d6bc2aa8d4"
+          }
+        },
+        {
+          "client_id": "995600716137-4ba7enr964fgei4ijg2v6vnjlh660epk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAte5ONmwxPQ05HGjk24MuZavTnC8ECC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995600716137-4ba7enr964fgei4ijg2v6vnjlh660epk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
